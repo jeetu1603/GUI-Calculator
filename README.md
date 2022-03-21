@@ -1,2 +1,2 @@
 # GUI-Calculator
-GUI Calculator using python tkinter
+![sample](sample.png)
